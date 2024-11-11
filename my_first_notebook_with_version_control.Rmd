@@ -1,0 +1,13 @@
+---
+title: "My first notebook with git version control!"
+output:
+  html_document:
+    df_print: paged
+---
+
+Test git!
+
+```{r}
+plot(cars)
+```
+
