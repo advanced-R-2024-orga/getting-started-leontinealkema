@@ -9,6 +9,8 @@ Test git!
 
 Add something for first update.
 
+Here are some other stuff for second update.
+
 ```{r}
 plot(cars)
 ```
